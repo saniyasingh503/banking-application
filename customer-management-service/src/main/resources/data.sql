@@ -1,0 +1,2 @@
+INSERT INTO customers (id, first_name, last_name, email) VALUES (1, 'Jon', 'Test', 'jon@example.com');
+INSERT INTO customers (id, first_name, last_name, email) VALUES (2, 'Bill', 'Test', 'bill@example.com');
