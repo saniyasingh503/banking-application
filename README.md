@@ -41,7 +41,7 @@ To support the microservices, the following components have been implemented:
    git clone https://github.com/saniyasingh503/banking-application.git
    cd banking-application
 
-2. **Start the Services in Order**
+#### Start the Services in Order
 To ensure that all microservices function correctly, start the services in the following order:
 1. **Eureka Server**: Start the Eureka server first to register all microservices.
 2. **Config Server**: Start the Config server for centralized configuration.
